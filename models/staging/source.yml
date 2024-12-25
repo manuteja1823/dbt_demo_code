@@ -1,0 +1,7 @@
+version: 2
+sources:
+    - name: datafeed_shared_schema
+      database: "{{('SOURCE_DB')}}"
+      schema: SOURCE_LAYER
+      tables:
+        - name: STAGE_EMP
