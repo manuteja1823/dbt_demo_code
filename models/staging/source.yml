@@ -5,3 +5,5 @@ sources:
       schema: SOURCE_LAYER
       tables:
         - name: STAGE_EMP
+        - name: RAW_CUSTOMERDATA
+        - name: RAW_ORDER
