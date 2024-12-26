@@ -7,3 +7,4 @@ sources:
         - name: STAGE_EMP
         - name: RAW_CUSTOMERDATA
         - name: RAW_ORDER
+        - name: RAW_PRODUCT
