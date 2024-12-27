@@ -2,4 +2,3 @@
     ({{ column_name }} / 100)::numeric(16, 2)
 {%- endmacro %}
 
-
